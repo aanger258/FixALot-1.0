@@ -1,9 +1,6 @@
 /craft/storage/*
 !/craft/storage/logo/*
 
-# CRAFT ENVIRONMENT
-.env
-
 # COMPOSER
 /vendor
 
